@@ -1,7 +1,3 @@
-I visited the repository, and here's a high-quality `README.md` template for your project:
-
----
-
 # Silo
 
 [![GitHub stars](https://img.shields.io/github/stars/bangkipli/silo?style=social)](https://github.com/bangkipli/silo)  
